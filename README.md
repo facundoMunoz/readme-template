@@ -3,7 +3,7 @@
 
 # README Template
 
-This is the README template I use to document my projects, inspired by the repositories listed in the [Acknowledgments](#acknowledgments).
+This is the README template I use to document my projects, inspired by the repositories listed in the [Acknowledgments](#acknowledgments)
 
 [![Licence][license-shield]](./LICENSE)
 
