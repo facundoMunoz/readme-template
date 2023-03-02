@@ -9,18 +9,6 @@ This is the README template I use to document my projects, inspired by the repos
 
 </div>
 
-<!-- CONTENTS -->
-<details> <summary> Table of Contents </summary>
-
-- [Built With](#built-with)
-- [Getting Started](#getting-started)
-   - [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
-
-</details>
-
 <!-- BUILT WITH -->
 ## Built With
 
